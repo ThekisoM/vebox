@@ -1,0 +1,13 @@
+body {
+  background: pink;
+  color: #fff;
+  text-transform: capitalize;
+  line-height: 1.2;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 300px; }
